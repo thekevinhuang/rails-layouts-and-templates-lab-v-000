@@ -4,10 +4,10 @@ class StoreAdminController < ApplicationController
   end
 
   def home
-
+    
   end
 
   def invoice
-
+    render :layout => false
   end
 end
