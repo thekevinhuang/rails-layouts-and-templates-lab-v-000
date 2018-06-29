@@ -7,7 +7,7 @@ class StoreAdminController < ApplicationController
 
   end
 
-  def Invoice
+  def invoice
 
   end
 end
